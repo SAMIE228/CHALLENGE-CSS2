@@ -1,0 +1,35 @@
+
+
+body{
+    background-color: #F3AC3C;
+    display: grid;
+    
+}
+.enfant1{
+    top: 100px;
+    background-color: #1A4341;
+    height: 200px;
+    width: 200px;
+    z-index: 1;
+    position: relative;
+    margin: auto;
+}
+.enfant2{
+   
+    background-color: #998235;
+    height: 100px;
+    width: 100px;
+    z-index: 2;
+    position: relative;
+    margin: auto;
+}
+.enfant3{ 
+    top: -50px;
+    background-color: #F3AC3C;
+    height: 50px;
+    width: 50px;
+    z-index: 3;
+    position: relative; 
+    margin: auto;
+    
+}
